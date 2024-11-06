@@ -23,4 +23,5 @@ options/vcs-inputs.xml
 options/web-types-npm-loader.xml
 
 !bundled_plugins.txt
+
 !early-access-registry.txt
