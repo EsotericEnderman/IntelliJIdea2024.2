@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="*.png.mcmeta" type="JSON" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
+    </extensionMap>
+  </component>
+</application>

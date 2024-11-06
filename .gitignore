@@ -1,3 +1,23 @@
 *
 
 !.gitignore
+
+!options
+!options/*
+!options/*/*
+
+options/trusted-paths.xml
+options/actionSummary.xml
+options/features.usage.statistics.xml
+options/github.xml
+options/gitlab.xml
+options/jdk.table.xml
+options/kotline-onboarding.xml
+options/nodejs.xml
+options/other.xml
+options/path.macros.xml
+options/recentProjects.xml
+options/terminal.xml
+options/updates.xml
+options/vcs-inputs.xml
+options/web-types-npm-loader.xml
