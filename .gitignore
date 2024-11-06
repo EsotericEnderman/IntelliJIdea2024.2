@@ -25,3 +25,5 @@ options/web-types-npm-loader.xml
 !bundled_plugins.txt
 
 !early-access-registry.txt
+
+!idea64.exe.vmoptions
