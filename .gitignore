@@ -21,3 +21,5 @@ options/terminal.xml
 options/updates.xml
 options/vcs-inputs.xml
 options/web-types-npm-loader.xml
+
+!bundled_plugins.txt
