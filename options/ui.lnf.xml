@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
     <option name="MAX_LOOKUP_WIDTH2" value="806" />
     <option name="UI_DENSITY" value="COMPACT" />
