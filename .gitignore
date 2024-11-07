@@ -29,6 +29,7 @@ options/updates.xml
 options/vcs-inputs.xml
 options/web-types-npm-loader.xml
 options/window.state.xml
+options/settingsSyncLocal.xml
 
 !codestyles
 !codestyles/*
