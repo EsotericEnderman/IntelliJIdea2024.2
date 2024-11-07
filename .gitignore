@@ -11,6 +11,7 @@
 
 options/trusted-paths.xml
 options/actionSummary.xml
+options/contributorSummary.xml
 options/features.usage.statistics.xml
 options/github.xml
 options/gitlab.xml
