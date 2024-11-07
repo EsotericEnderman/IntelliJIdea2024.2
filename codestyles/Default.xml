@@ -9,6 +9,10 @@
     <option name="MULTI_CATCH_TYPES_WRAP" value="0" />
     <option name="ALIGN_TYPES_IN_MULTI_CATCH" value="false" />
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="0" />
+    <option name="WRAP_ELVIS_EXPRESSIONS" value="0" />
+  </JetCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -38,5 +42,17 @@
         </group>
       </groups>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="CALL_PARAMETERS_WRAP" value="0" />
+    <option name="METHOD_PARAMETERS_WRAP" value="0" />
+    <option name="EXTENDS_LIST_WRAP" value="0" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="0" />
+    <option name="ASSIGNMENT_WRAP" value="0" />
   </codeStyleSettings>
 </code_scheme>
