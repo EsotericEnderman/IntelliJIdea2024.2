@@ -1,4 +1,35 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="0" />
   <option name="SOFT_MARGINS" value="120" />
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="ALIGN_CONSECUTIVE_ASSIGNMENTS" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="true" />
+    </indentOptions>
+    <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>BREADTH_FIRST</order>
+        </group>
+      </groups>
+    </arrangement>
+  </codeStyleSettings>
 </code_scheme>
