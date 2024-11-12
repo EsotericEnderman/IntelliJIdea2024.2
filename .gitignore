@@ -30,6 +30,8 @@ options/vcs-inputs.xml
 options/web-types-npm-loader.xml
 options/window.state.xml
 options/settingsSyncLocal.xml
+options/sshRecentConnections.v2.xml
+options/sshRecentConnectionsHost.xml
 
 !codestyles
 !codestyles/*
