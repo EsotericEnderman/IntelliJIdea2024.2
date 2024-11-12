@@ -39,6 +39,9 @@ options/sshRecentConnectionsHost.xml
 !codestyles
 !codestyles/*
 
+!colors
+!colors/*
+
 !bundled_plugins.txt
 
 !early-access-registry.txt
