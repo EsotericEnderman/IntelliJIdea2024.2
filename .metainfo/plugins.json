@@ -1,0 +1,36 @@
+{
+    "plugins": {
+        "Batch Scripts Support": {
+            "dependencies": [
+                "com.intellij.modules.platform"
+            ]
+        },
+        "CMD Support": {
+            "dependencies": [
+                "com.intellij.modules.lang"
+            ]
+        },
+        "PythonCore": {},
+        "Pythonid": {
+            "category": "UI"
+        },
+        "com.demonwav.minecraft-dev": {
+            "dependencies": [
+                "com.intellij.modules.java",
+                "org.jetbrains.idea.maven",
+                "com.intellij.gradle",
+                "org.intellij.groovy",
+                "com.intellij.properties",
+                "ByteCodeViewer"
+            ]
+        },
+        "com.intellij.ml.llm": {
+            "category": "UI"
+        },
+        "com.intellij.plugins.vscodekeymap": {
+            "dependencies": [
+                "com.intellij.modules.lang"
+            ]
+        }
+    }
+}

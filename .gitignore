@@ -33,6 +33,9 @@ options/settingsSyncLocal.xml
 options/sshRecentConnections.v2.xml
 options/sshRecentConnectionsHost.xml
 
+!.metainfo
+!.metainfo/*
+
 !codestyles
 !codestyles/*
 
