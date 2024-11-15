@@ -139,7 +139,6 @@
         <option value="LanguageTool.EN.HYPHEN_TO_EN" />
         <option value="LanguageTool.EN.DO_MAKE_PRP_VBG" />
         <option value="LanguageTool.EN.ALONG_THE_LINES_OF" />
-        <option value="LanguageTool.EN.TYPOGRAPHICAL_APOSTROPHE" />
         <option value="LanguageTool.EN.ON_TWO_SEPARATE_OCCASIONS" />
         <option value="LanguageTool.EN.SENT_START_CONJUNCTION" />
         <option value="LanguageTool.EN.NOT_UNLIKE" />
@@ -215,7 +214,6 @@
         <option value="LanguageTool.EN.DT_JJ_NO_NOUN" />
         <option value="LanguageTool.EN.TRY_AND" />
         <option value="LanguageTool.EN.PASSIONATE_BY_ABOUT_2" />
-        <option value="LanguageTool.EN.ELLIPSIS" />
         <option value="LanguageTool.EN.WRONG_APOSTROPHE" />
         <option value="LanguageTool.EN.EITHER_NOR" />
         <option value="LanguageTool.EN.NUMEROUS_DIFFERENT" />
