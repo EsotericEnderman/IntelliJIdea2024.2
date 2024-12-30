@@ -1,36 +1,11 @@
 {
     "plugins": {
-        "Batch Scripts Support": {
-            "dependencies": [
-                "com.intellij.modules.platform"
-            ]
-        },
-        "CMD Support": {
-            "dependencies": [
-                "com.intellij.modules.lang"
-            ]
-        },
-        "PythonCore": {},
-        "Pythonid": {
-            "category": "UI"
+        "color.scheme.Eclipse Dark Theme": {
+            "category": "UI",
+            "dependencies": ["com.intellij.modules.platform"]
         },
         "com.demonwav.minecraft-dev": {
-            "dependencies": [
-                "com.intellij.modules.java",
-                "org.jetbrains.idea.maven",
-                "com.intellij.gradle",
-                "org.intellij.groovy",
-                "com.intellij.properties",
-                "ByteCodeViewer"
-            ]
-        },
-        "com.intellij.ml.llm": {
-            "category": "UI"
-        },
-        "com.intellij.plugins.vscodekeymap": {
-            "dependencies": [
-                "com.intellij.modules.lang"
-            ]
+            "dependencies": ["com.intellij.modules.java", "org.jetbrains.idea.maven", "com.intellij.gradle", "org.intellij.groovy", "com.intellij.properties", "com.intellij.modules.json", "ByteCodeViewer"]
         }
     }
 }
