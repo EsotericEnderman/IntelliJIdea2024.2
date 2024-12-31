@@ -32,6 +32,7 @@ options/window.state.xml
 options/settingsSyncLocal.xml
 options/sshRecentConnections.v2.xml
 options/sshRecentConnectionsHost.xml
+options/kotlin-wizard-data.xml
 
 !.metainfo
 !.metainfo/*
