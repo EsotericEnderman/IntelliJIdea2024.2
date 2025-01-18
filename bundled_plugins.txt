@@ -122,8 +122,6 @@ com.intellij.kubernetes|Deployment
 
 com.intellij.liquibase|Database
 
-com.intellij.llmInstaller|Other Tools
-
 com.intellij.marketplace.ml|Local AI/ML Tools
 
 com.intellij.micronaut|JVM Frameworks
