@@ -7,10 +7,12 @@
       <w>craftable</w>
       <w>craftbukkit</w>
       <w>deepslate</w>
+      <w>deserialised</w>
       <w>elytra</w>
       <w>enderman</w>
       <w>entrypoints</w>
       <w>esotericenderman</w>
+      <w>esotericfoundation</w>
       <w>fabricloader</w>
       <w>foojay</w>
       <w>gamemode</w>
@@ -29,6 +31,7 @@
       <w>knockback</w>
       <w>koll</w>
       <w>lapis</w>
+      <w>libmp</w>
       <w>licensor's</w>
       <w>minigames</w>
       <w>modmenu</w>
@@ -42,6 +45,7 @@
       <w>overworld</w>
       <w>pascalcase</w>
       <w>piglin</w>
+      <w>piglins</w>
       <w>playerdata</w>
       <w>pnew</w>
       <w>redstone</w>
@@ -57,6 +61,7 @@
       <w>userdev</w>
       <w>waivable</w>
       <w>welkom</w>
+      <w>zombified</w>
     </words>
   </component>
 </application>
